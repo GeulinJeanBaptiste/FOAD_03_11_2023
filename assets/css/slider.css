@@ -34,3 +34,8 @@
 #text #artiste{
   font-size: 25px;
 }
+#button {
+  display: flex;
+  justify-content: space-around;
+  font-size: 40px;
+}
